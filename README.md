@@ -2,8 +2,7 @@
 💻Este projeto consiste em uma landing page responsiva para a Space Cream, uma sorveteria fictícia.
 
 
-
-📥 Conhecimento adquirido
+📥 Conhecimento adquirido:
 Estratégia Mobile-First;
 Unidades de Medida Relativas;
 Breakpoints utilizando @media no CSS;
@@ -16,9 +15,7 @@ Interpretação de Layout no Figma;
 HTML Semântico;
 
 
-🛠 Tecnologias usadas
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
-
-HTML
-CSS
-Figma
+🛠 Tecnologias usadas:
+HTML;
+CSS;
+Figma.
