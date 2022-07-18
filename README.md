@@ -1,6 +1,5 @@
 # SpaceCream
-💻 Projeto
-Este projeto consiste em uma landing page responsiva para a Space Cream, uma sorveteria fictícia.
+💻Este projeto consiste em uma landing page responsiva para a Space Cream, uma sorveteria fictícia.
 
 
 
